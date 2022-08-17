@@ -1,0 +1,9 @@
+.button {
+  background-color: #5172c4;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  font-size: calc(10px + 2vmin);
+  margin: 10px;
+}
+
